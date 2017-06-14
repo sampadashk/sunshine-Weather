@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="entrylabel">
+        <item> @string/label_cel</item>
+        <item> @string/label_fht</item>
+    </array>
+    <array name="entryval">
+        <item> @string/value_cel</item>
+        <item> @string/value_fht</item>
+    </array>
+</resources>
